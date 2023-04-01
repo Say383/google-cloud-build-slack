@@ -16,7 +16,7 @@
   "dependencies": {
     "@octokit/rest": "^16.27.3",
     "@slack/client": "5.0.1",
-    "humanize-duration": "3.18.0"
+    "humanize-duration": "3.28.0"
   },
   "devDependencies": {
     "async": "^3.0.1",
