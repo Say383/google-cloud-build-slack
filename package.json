@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "async": "^3.0.1",
-    "mocha": "6.1.4",
+    "mocha": "10.2.0",
     "nyc": "^14.1.1",
     "should": "13.2.3",
     "sinon": "^7.3.2",
