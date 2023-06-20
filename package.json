@@ -14,14 +14,14 @@
     "url": "git+https://github.com/Philmod/google-cloud-build-slack.git"
   },
   "dependencies": {
-    "@octokit/rest": "^16.27.3",
+    "@octokit/rest": "^17.0.0",
     "@slack/client": "5.0.1",
     "humanize-duration": "3.18.0"
   },
   "devDependencies": {
     "async": "^3.0.1",
-    "mocha": "6.1.4",
-    "nyc": "^14.1.1",
+    "mocha": "6.2.1",
+    "nyc": "^15.0.0",
     "should": "13.2.3",
     "sinon": "^7.3.2",
     "serverless-google-cloudfunctions": "^2.3.2"
