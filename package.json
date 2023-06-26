@@ -23,7 +23,7 @@
     "mocha": "6.1.4",
     "nyc": "^15.0.0",
     "should": "13.2.3",
-    "sinon": "^7.3.2",
+    "sinon": "^15.0.2",
     "serverless-google-cloudfunctions": "^2.3.2"
   },
   "author": "Philmod <philippe.modard@gmail.com>",
