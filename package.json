@@ -14,7 +14,7 @@
     "url": "git+https://github.com/Philmod/google-cloud-build-slack.git"
   },
   "dependencies": {
-    "@octokit/rest": "^16.27.3",
+    "@octokit/rest": "^19.0.7",
     "@slack/client": "5.0.1",
     "humanize-duration": "3.18.0"
   },
